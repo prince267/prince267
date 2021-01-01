@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!--
 ![alt text](https://github.com/prince267/prince267/blob/master/Black%20%26%20White%20Pixel%20Web%20Designer%20Business%20Card.png)
 
